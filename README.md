@@ -4,3 +4,5 @@ link to article: https://fortune.com/2025/09/14/ai-chatbots-teens-children-menta
 
 ## What I found interesting
 This article discusses the harmful relationship between AI chatbots and its users. One of the parts in the article which I found interesting was when the article quotes Meetali Jain, where she describes such chatbots as technology that is "much more powerful and very personalized". With the amount of research that goes into NLP and making chatbots seem as human as possible, it is possible to forget that these chatbots are not sentient, and therefore those who reach out to chatbots for confidence, especially those who are emotionally vulnerable, can be misled and taken advatantage of, which is a huge and overseen issue as AI continues to develop. 
+
+- I think your points all make sense especially how the article discusses the harmful relationship between AI chatbots and its users - Connor
